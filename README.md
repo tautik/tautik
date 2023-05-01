@@ -1,18 +1,36 @@
-### Hi there 👋
+# 🌊Tautik Agrahari
 
-<!--
-**tautik/tautik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Full-Stack Developer`**
+I am an independent full-stack developer with experience in the MERN stack and currently a student pursuing a B.Tech degree in Computer Science and Engineering. I am passionate about building my version of the digital world, one coding project at a time, with a focus on planning, design, and solving real-life problems with code. I am open to any new opportunities that may arise.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tautik&theme=radical)
+   <p align="left">
+      <a href="https://github.com/tautik?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tautik?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/tautik?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tautik?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
+
+#
+
+### 📊 Stats
+
+![Tautik's GitHub stats](https://github-readme-stats.vercel.app/api?username=tautik&show_icons=true&theme=gruvbox)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tautik&theme=gruvbox&border_radius=4.5)
