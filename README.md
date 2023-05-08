@@ -41,10 +41,8 @@ I am an independent full-stack developer with experience in the MERN stack and c
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
  <br />
    
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+# Medimu Posts
+    [Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=tautik)
 #
 
 ### 📊 Stats
