@@ -15,12 +15,8 @@ I am an independent full-stack developer with experience in the MERN stack and c
 
 
 
-   <p align="left">
-      <a href="https://github.com/tautik?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tautik?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/tautik?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tautik?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+# Medium Blog
+<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=tautik"/>
 
 ---
 
@@ -40,9 +36,7 @@ I am an independent full-stack developer with experience in the MERN stack and c
   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
  <br />
-   
-# Medium Blog
-<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=tautik"/>
+  
 
 ### 📊 Stats
 
