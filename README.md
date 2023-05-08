@@ -5,11 +5,6 @@ I am an independent full-stack developer with experience in the MERN stack and c
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1x18JKvkSiIs1orkh6kjpWCQp32zaixD-/view?usp=share_link" target="blank">Resume</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tautik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tautik" height="30" width="40" /></a>
-</p>
-
 # Medium Blog
 <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=tautik"/>
 
