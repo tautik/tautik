@@ -40,7 +40,24 @@ I am an independent full-stack developer with experience in the MERN stack and c
   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
  <br />
-
+   
+#
+   
+   name: Latest blog post workflow
+on: 
+    schedule:
+        - cron: '0 * * * *'
+jobs: 
+    update-readme-with-blog: 
+        name: Update this repo's README with latest blog posts
+        runs-on: ubuntu-latest
+        steps: 
+            - uses: actions/checkout@v2
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with: 
+                max_post_count: "4"
+                feed_list: "https://medium.com/feed/@tautik"
+   
 #
 
 ### 📊 Stats
