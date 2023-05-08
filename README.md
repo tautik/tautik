@@ -42,7 +42,7 @@ I am an independent full-stack developer with experience in the MERN stack and c
  <br />
    
 # Medimu Posts
-    <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=tautik"/>
+<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=tautik"/>
 #
 
 ### 📊 Stats
