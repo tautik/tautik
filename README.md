@@ -6,7 +6,8 @@ I am an independent full-stack developer with experience in the MERN stack and c
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1x18JKvkSiIs1orkh6kjpWCQp32zaixD-/view?usp=share_link" target="blank">Resume</a>
 
 # Medium Blog
-<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=tautik&limit=4"/>
+![Tautik's blog](https://github-read-medium.vercel.app/latest?username=tautik&limit=6&theme=nord)
+
 
 ---
 
