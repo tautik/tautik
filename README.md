@@ -3,7 +3,7 @@
 **`Full-Stack Developer`**
 I am an independent full-stack developer with experience in the MERN stack and currently a student pursuing a B.Tech degree in Computer Science and Engineering. I am passionate about building my version of the digital world, one coding project at a time, with a focus on planning, design, and solving real-life problems with code. I am open to any new opportunities that may arise.
 
-- 📄 RESUME <a href="[https://drive.google.com/file/d/1x18JKvkSiIs1orkh6kjpWCQp32zaixD-/view?usp=share_link](https://drive.google.com/file/d/1QsYjQxIdvlKg3IwnC7hddeeNlTALOhC2/view?usp=sharing)" target="blank">Resume</a>
+- 📄 <a href="[https://drive.google.com/file/d/1x18JKvkSiIs1orkh6kjpWCQp32zaixD-/view?usp=share_link](https://drive.google.com/file/d/1QsYjQxIdvlKg3IwnC7hddeeNlTALOhC2/view?usp=sharing)" target="blank">Resume</a>
 
 # Medium Blog
 ![Tautik's blog](https://github-read-medium.vercel.app/latest?username=tautik&limit=6&theme=nord)
